@@ -1,25 +1,25 @@
-# Профессиональные навыки
+# Professional Skills
 
-## Основные компетенции
+## Core Competencies
 
-- **Full Stack Development:** Полноценные проекты от начала до конца. Всё необходимое знание стека — от фронтенда до бэкенда, включающее проектирование баз данных, настройку инфраструктуры и нагрузочное тестирование.
-- **Backend Development:** Работа с Python, Go, Ruby on Rails, Node.js. Надежные и производительные API, работа с большими объемами данных, механизмы кеширования.
-- **Frontend Development:** HTML/CSS, JavaScript (React, Vue, Angular). Быстрые, интерактивные и красивые интерфейсы, учитывающие UX и доступность.
-- **Базы данных:** MySQL, PostgreSQL, MongoDB, Redis. Проектирование реляционных и NoSQL БД, оптимизация запросов, индексы и репликация.
-- **Инфраструктура:** Kubernetes, Docker, AWS, Google Cloud. Настройка серверов, балансировка нагрузки, высокая надежность и отказоустойчивость.
-- **Безопасность:** Защита данных на каждом этапе разработки. Аудит безопасности, шифрование, аутентификация, SSL/TLS сертификаты.
-- **DevOps:** CI/CD, Jenkins, GitLab CI, Ansible, Terraform. Автоматизация сборки, тестов и развёртывания приложений.
-- **Искусственный интеллект и машинное обучение:** Экспериментальная работа с моделями ML, NLP, компьютерное зрение. Интеграция моделей в продакшн.
-- **Блокчейн:** Solidity, Ethereum, Hyperledger Fabric. dApps, смарт-контракты, токены и NFT.
-- **Микроархитектуры:** Монолитные приложения превращаются в микроуслуги для облегчения тестирования, развёртывания и масштабирования.
-- **Оптимизация производительности:** Профилирование приложений, устранение узких мест, сокращение задержки и ускорения отклика.
-- **SEO и цифровая реклама:** Улучшение позиций в поисковиках, аналитика трафика, привлечение целевых пользователей.
-- **Руководство проектами:** Постановка задач, сроки, бюджет, мотивация команды, коучинг разработчиков.
-- **Навыки общения:** Коммуникабельность, стрессоустойчивость, организованность, внимательное отношение к деталям и высокие стандарты качества.
+- **Full Stack Development:** Complete projects from start to finish. Full stack knowledge including frontend, backend, database design, infrastructure setup, and load testing.
+- **Backend Development:** Working with Python, Go, Ruby on Rails, Node.js. Reliable and performant APIs, handling large datasets, caching mechanisms.
+- **Frontend Development:** HTML/CSS, JavaScript (React, Vue, Angular). Fast, interactive, and beautiful interfaces considering UX and accessibility.
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis. Designing relational and NoSQL databases, optimizing queries, indexing, replication.
+- **Infrastructure:** Kubernetes, Docker, AWS, Google Cloud. Server configuration, load balancing, high reliability, fault tolerance.
+- **Security:** Data protection at every stage of development. Security audits, encryption, authentication, SSL/TLS certificates.
+- **DevOps:** CI/CD, Jenkins, GitLab CI, Ansible, Terraform. Automating builds, tests, application deployments.
+- **Artificial Intelligence & Machine Learning:** Experimental work with ML models, NLP, computer vision. Integrating models into production.
+- **Blockchain:** Solidity, Ethereum, Hyperledger Fabric. dApps, smart contracts, tokens, NFTs.
+- **Microarchitectures:** Transforming monolithic applications into microservices for easier testing, deployment, scaling.
+- **Performance Optimization:** Application profiling, bottleneck elimination, latency reduction, response acceleration.
+- **SEO & Digital Advertising:** Improving search engine rankings, traffic analytics, attracting target users.
+- **Project Management:** Task setting, deadlines, budget management, team motivation, developer coaching.
+- **Communication Skills:** Communicative, stress-resistant, organized, detail-oriented, maintaining high quality standards.
 
-## Дополнительные навыки
+## Additional Skills
 
-- Опыт работы с большими объёмами данных: Apache Spark, Hadoop.
+- Experience working with big data: Apache Spark, Hadoop.
 - Knowledge of GraphQL for efficient API development.
-- Практический опыт разработки кроссплатформенных мобильных приложений на Flutter или React Native.
-- Доказанная способность доставки масштабируемых решений в сжатые сроки с соблюдением высоких стандартов качества.
+- Practical experience in developing cross-platform mobile apps using Flutter or React Native.
+- Proven ability to deliver scalable solutions within tight timelines while adhering to high-quality standards.
